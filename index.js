@@ -34,5 +34,6 @@ module.exports = {
     /^tax-(.*)?$/,
     /^term-(.*)?$/,
     /^(.*)?-?paged(-.*)?$/,
+    /^wp-block(-.*)?$/
   ],
 };
